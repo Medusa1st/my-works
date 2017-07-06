@@ -23,23 +23,23 @@ export default {
       title: '我的作品',
       items: [
       {
-        name: '作品1-智能停车', 
+        name: '作品1-智能停车页面设计', 
         id: 'work-item1', 
         imgSrc: 'http://medusa1st.me/images/works/work1.png', 
-        url: 'http://medusa1st.me/livepark/', 
-        intro: '基于高德地图js-sdk的手机web页面，实现用户定位、停车位标记、停车位选择、路线导航、支付等功能。(仅供展示)'
+        url: 'http://medusa1st.me/livepark/wxToShow/wxBaby.php', 
+        intro: '基于高德地图js-sdk的手机微信web页面，实现微信登录、用户定位、停车位标记、停车位选择、路线导航、支付等功能。请使用微信扫描二维码打开链接。'
       },{
         name: '作品2', 
         id: 'work-item2', 
         imgSrc: 'http://medusa1st.me/images/works/work-default.png', 
         url: '', 
-        intro: '制作中……'
+        intro: '制作中，敬请期待……'
       },{
         name: '作品3', 
         id: 'work-item3', 
         imgSrc: 'http://medusa1st.me/images/works/work-default.png', 
         url: '', 
-        intro: '制作中……'
+        intro: '制作中，敬请期待……'
       }
       ],
       selectedItemName: ''
