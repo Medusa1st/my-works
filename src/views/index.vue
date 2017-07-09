@@ -26,7 +26,7 @@ export default {
         name: '作品1-智能停车页面设计', 
         id: 'work-item1', 
         imgSrc: 'http://medusa1st.me/images/works/work1.png', 
-        url: 'http://medusa1st.me/livepark/wxToShow/wxBaby.php', 
+        url: 'http://www.liveparkchina.com', 
         intro: '基于高德地图js-sdk的手机微信web页面，实现微信登录、用户定位、停车位标记、停车位选择、路线导航、支付等功能。请使用微信扫描二维码打开链接。'
       },{
         name: '作品2', 
